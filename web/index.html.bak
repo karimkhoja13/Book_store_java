@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Home TK Shopping Mart</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body bgcolor="orange">
+        <H1 ALIGN="CENTER">TK Shopping Mart</H1>
+        <div align="center">
+            <p><h2>Welcome to the online shopping store !!! On this website you will find all types of Computer Accessories.</h2></p>
+            <!--<form action="TechBooksPage" method="get">-->
+            <br />
+            <table>
+                <tr>
+                    <td><img src=Images/books_image.jpg alt="Books Image" height="200" width="200" /></td>
+                    <td><img src="Images/bookstore.gif" alt='Books Image' height="200" width="200" /></td>
+                    <td><img src="Images/bookstore.jpg" alt='Books Image' height="200" width="200" /></td>
+                </tr>
+                <tr>
+                    <td><img src="Images/bookstore_a.JPG" alt='Books Image' height="200" width="200" /></td>
+                    <td><img src="Images/bookstore_b.JPG" alt='Books Image' height="200" width="200" /></td>
+                    <td><img src="Images/shelves.jpg" alt='Books Image' height="200" width="200" /></td>
+                </tr>
+            </table>
+            <br />
+            <h2>Please visit the <a href="categoriesHome">Categories Home Page</a> to use the store.</h2>
+            <!--<a href="logoutPage">Logout</a>-->
+        </div>
+    </body>
+</html>
